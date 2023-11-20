@@ -1,0 +1,29 @@
+#header {
+    background-color: #202535;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    padding: 20px 25px 75px 30px;
+}
+
+#header-content {
+    width: 300px;
+    margin-top: 70px;
+}
+
+#header-content h1 {
+    font-size: 3em;
+    font-weight: bolder;
+    line-height: normal;
+}
+
+#header-content p {
+    padding: 15px 0;
+}
+
+#header-btn {
+    margin: 20px 0;
+    padding: 15px;
+    font-size: 1.2em;
+    font-weight: bold;
+}

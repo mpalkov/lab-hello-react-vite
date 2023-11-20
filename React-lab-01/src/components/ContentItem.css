@@ -1,0 +1,16 @@
+.content-item {
+    max-width: 170px;
+}
+
+.content-item h2 {
+    font-weight: bold;
+}
+
+.content-item p {
+    color: grey;
+}
+
+.item-image {
+    position: relative;
+    left: -20px;
+}
